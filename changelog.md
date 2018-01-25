@@ -4,6 +4,15 @@ Team membership:  Alex Xia (Captain) & Luke Lee (First Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## [0.0.2] - 2018-01-25
+### Added
+- template.php holds redundant code from about, gallery, and welcome.php views
+
+### Changed
+- MY_Controller now works, and populates page title and content
+- Welcome.php, About.php, Gallery.php controllers now pull data from views
+
+
 ## [0.0.1] - 2018-01-25
 ### Added
 - CodeIgniter starter folders to project folder
